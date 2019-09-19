@@ -16,28 +16,28 @@ To get the notebooks in this tutorial running, we recommend using a Python insta
 
 We also recommend setting up a separate virtual environment. This bundles all the packages you need.
 
-``
+```
 conda create -n ml-tutorial
 conda activate ml-tutorial
-``
+```
 
 Then, install the packages that will become your toolbox for this tutorial.
 
-``
+```
 conda install numpy matplotlib skikit-learn jupyter
-``
+```
 
 ### This library
 
-``
+```
 git clone ####
 cd ####
-``
+```
 
 To start the Jupyter notebook server, execute
 
-``
+```
 jupyter notebook
-``
+```
 
 A browser window will automatically open where you can view and edit the notebooks.
