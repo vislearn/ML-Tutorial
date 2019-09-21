@@ -42,3 +42,8 @@ jupyter notebook
 ```
 
 A browser window will automatically open where you can view and edit the notebooks.
+
+
+## Credits
+
+Script by Ullrich Köthe, code by Felix Draxler. Both at [Visual Learning Lab, Heidelberg University](https://hci.iwr.uni-heidelberg.de/vislearn/people/).
