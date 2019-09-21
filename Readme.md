@@ -2,9 +2,7 @@
 
 ## How to use this
 
-If you just want to look at the examples, open any of the notebooks in this repo:
-
-- [Blub](jihaa.ipynb)
+If you just want to look at the examples, open any of the notebooks or the corresponding HTML exports in this repo.
 
 If you want to start coding yourself, follow the installation procedures below to get started.
 
@@ -25,7 +23,10 @@ Then, install the packages that will become your toolbox for this tutorial.
 
 ```
 conda install numpy matplotlib skikit-learn jupyter
+conda install pytorch torchvision -c pytorch
 ```
+
+The last command is only necessary for the neural networks chapter.
 
 ### This library
 
