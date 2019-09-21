@@ -31,8 +31,8 @@ The last command is only necessary for the neural networks chapter.
 ### This library
 
 ```
-git clone ####
-cd ####
+git clone https://github.com/VLL-HD/ML-Tutorial
+cd ML-Tutorial
 ```
 
 To start the Jupyter notebook server, execute
